@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -174,3 +175,8 @@ Enjoy!
 pruebaclase
 ===========
 >>>>>>> db90140c8ec03fe9fd37e0bd92f398ad79d68bc6
+=======
+The OpenShift `php` cartridge documentation can be found at:
+
+https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-php/README.md
+>>>>>>> 2c6de21afdf2fcbd11355631fd6d5d57bf1e0db2
